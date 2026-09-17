@@ -1,7 +1,7 @@
 <h1>Customer Accounts</h1>
 
 <p>
-    These customer records are stored in a temporary PHP array.
+    That's your customers sir.
 </p>
 
 <table>

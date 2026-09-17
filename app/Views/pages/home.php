@@ -1,9 +1,9 @@
-<h1>Welcome to SimplePOS</h1>
+<h1>Welcome to Formative 1</h1>
 
 <p>
-    This is a basic Point-of-Sale application built with CodeIgniter 4.
+    Welcome to this page. I'm beginner.
 </p>
 
 <p>
-    Use the navigation menu to view customers and user accounts.
+    You can view the other pages by simply click the other navigation tabs.
 </p>

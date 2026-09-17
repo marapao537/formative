@@ -1,7 +1,7 @@
 <h1>User Accounts</h1>
 
 <p>
-    These staff records are stored in a temporary PHP array.
+    That's our users sir.
 </p>
 
 <table>

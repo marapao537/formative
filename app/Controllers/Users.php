@@ -11,29 +11,29 @@ class Users extends BaseController
 
             'users' => [
                 [
-                    'username' => 'admin01',
-                    'full_name' => 'Angela Ramos',
-                    'role' => 'Administrator',
+                    'username' => 'admin1',
+                    'full_name' => 'Aldrin Brylle Marapao',
+                    'role' => 'Admin',
                 ],
                 [
-                    'username' => 'manager01',
-                    'full_name' => 'Marco Lim',
+                    'username' => 'manager1',
+                    'full_name' => 'Kohei Nishimura',
                     'role' => 'Manager',
                 ],
                 [
-                    'username' => 'cashier01',
-                    'full_name' => 'Nicole Flores',
-                    'role' => 'Cashier',
+                    'username' => 'employee1',
+                    'full_name' => 'Martin Gazo',
+                    'role' => 'Employee',
                 ],
                 [
-                    'username' => 'cashier02',
-                    'full_name' => 'Paolo Torres',
-                    'role' => 'Cashier',
+                    'username' => 'employee2',
+                    'full_name' => 'Mir Kim',
+                    'role' => 'Employee',
                 ],
                 [
-                    'username' => 'stock01',
-                    'full_name' => 'Sofia Navarro',
-                    'role' => 'Inventory Staff',
+                    'username' => 'employee3',
+                    'full_name' => 'Andrei Adarlo',
+                    'role' => 'Employee',
                 ],
             ],
         ];

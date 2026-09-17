@@ -84,7 +84,7 @@
 
     th {
         color: white;
-        background: #166534;
+        background: #c52100;
     }
     tr:nth-child(even) {
         background: #f0fdf4;
@@ -94,7 +94,7 @@
         padding: 20px;
         text-align: center;
         color: white;
-        background: #111827;
+        background: #560d00;
     }
     </style>
 </head>

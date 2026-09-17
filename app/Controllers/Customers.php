@@ -11,29 +11,29 @@ class Customers extends BaseController
 
             'customers' => [
                 [
-                    'full_name' => 'Andrea Santos',
-                    'email' => 'andrea.santos@example.com',
-                    'phone' => '0917-123-4567',
+                    'full_name' => 'Hunter Feuerstein',
+                    'email' => 'hunterfeuerstein@gmail.com',
+                    'phone' => '09xxxxxxxxx',
                 ],
                 [
-                    'full_name' => 'Miguel Reyes',
-                    'email' => 'miguel.reyes@example.com',
-                    'phone' => '0918-234-5678',
+                    'full_name' => 'Miggy Hizon',
+                    'email' => 'miggyhizon@gmail.com',
+                    'phone' => '09xxxxxxxxx',
                 ],
                 [
-                    'full_name' => 'Bianca Cruz',
-                    'email' => 'bianca.cruz@example.com',
-                    'phone' => '0919-345-6789',
+                    'full_name' => 'Jakub Dolejs',
+                    'email' => 'kubdol@gmail.com',
+                    'phone' => '09xxxxxxxxx',
                 ],
                 [
-                    'full_name' => 'Carlo Mendoza',
-                    'email' => 'carlo.mendoza@example.com',
-                    'phone' => '0920-456-7890',
+                    'full_name' => 'Kris Toledo',
+                    'email' => 'kristoledo@gmail.com',
+                    'phone' => '09xxxxxxxxx',
                 ],
                 [
-                    'full_name' => 'Denise Garcia',
-                    'email' => 'denise.garcia@example.com',
-                    'phone' => '0921-567-8901',
+                    'full_name' => 'Zeus Catubay',
+                    'email' => 'zeuscatub@gmail.com',
+                    'phone' => '09xxxxxxxxx',
                 ],
             ],
         ];
